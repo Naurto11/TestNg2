@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71584" started-at="2022-07-26T06:01:32Z" finished-at="2022-07-26T06:02:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71584" started-at="2022-07-26T06:01:32Z" finished-at="2022-07-26T06:02:44Z">
+      <class name="org.run.Runner2">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.run.Runner2@5d740a0f]" name="browserLaunch" is-config="true" duration-ms="3857" started-at="2022-07-26T06:01:32Z" finished-at="2022-07-26T06:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.run.Runner2@5d740a0f]" name="startstime" is-config="true" duration-ms="2175" started-at="2022-07-26T06:01:36Z" finished-at="2022-07-26T06:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.run.Runner2@5d740a0f]" name="tc1" duration-ms="61507" started-at="2022-07-26T06:01:38Z" finished-at="2022-07-26T06:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.run.Runner2@5d740a0f]" name="endsTime" is-config="true" duration-ms="3004" started-at="2022-07-26T06:02:40Z" finished-at="2022-07-26T06:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.run.Runner2@5d740a0f]" name="browserClose" is-config="true" duration-ms="820" started-at="2022-07-26T06:02:43Z" finished-at="2022-07-26T06:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.run.Runner2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
